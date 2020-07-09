@@ -1,3 +1,10 @@
+nymea-plugin-modbuscommander (0.1.5) xenial; urgency=medium
+
+  [ Bernhard Trinnes ]
+  * Rework readmes
+
+ -- Jenkins <jenkins@nymea.io>  Thu, 09 Jul 2020 21:08:51 +0200
+
 nymea-plugin-modbuscommander (0.1.4) xenial; urgency=medium
 
   [ Michael Zanetti ]
